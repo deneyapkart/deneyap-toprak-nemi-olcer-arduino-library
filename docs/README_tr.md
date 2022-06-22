@@ -23,7 +23,7 @@ Deneyap Toprak Nemi Ölçer ICM7555CBA
 
 [ICM7555CBA-datasheet](https://rocelec.widen.net/view/pdf/vizcydss0o/HRISS396-1.pdf?t.download=true&u=5oefqw)
 
-Arduino Kütüphanesi Nasıl İndirilir
+[Arduino Kütüphanesi Nasıl İndirilir](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)
 
 ## :pushpin:Deneyap Toprak Nemi Ölçer ICM7555CBA
 Bu Arduino kütüphanesi Deneyap Toprak Nemi Ölçer algılayıcısının I2C çevre birimi ile kullanılmasını sağlar. Arduino ile uyumlu, I2C çevre birimine sahip herhangi bir geliştirme kartı ile bu kütüphaneyi projelerinizde kullanabilirsiniz.
@@ -37,6 +37,8 @@ Bu Arduino kütüphanesi Deneyap Toprak Nemi Ölçer algılayıcısının I2C ç
 
 ## Sürüm Geçmişi
 1.0.0 - ilk sürüm
+
+1.0.1 - library.properties dosyasının güncellenmesi
 
 ## :rocket:Donanım Bağlantıları
 - Deneyap Toprak Nemi Ölçer ile kullanılan geliştirme kartı I2C kablosu ile bağlanabilir

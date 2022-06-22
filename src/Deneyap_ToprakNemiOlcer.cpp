@@ -1,13 +1,13 @@
 /*
 *****************************************************************************
 @file         Deneyap_ToprakNemiOlcer.cpp
-@mainpage     Deneyap Soil Moisture Sensor based ICM7555CBA Library 
-              Source File
+@mainpage     Deneyap Soil Moisture Sensor ICM7555CBA Arduino library 
+              source file
 @maintainer   RFtek Electronics <techsupport@rftek.com.tr>
-@version      v1.0.0
-@date         June 21, 2022
+@version      v1.0.1
+@date         June 22, 2022
 @brief        Includes functions to control Deneyap Soil Moisture Sensor 
-              based ICM7555CBA Arduino library
+              ICM7555CBA Arduino library
 
 Library includes: 
 --> Configuration functions

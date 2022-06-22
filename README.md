@@ -24,7 +24,7 @@ Deneyap Soil Moisture ICM7555CBA
 
 [ICM7555CBA-datasheet](https://rocelec.widen.net/view/pdf/vizcydss0o/HRISS396-1.pdf?t.download=true&u=5oefqw)
 
-How to install a Arduino Library -
+[How to install a Arduino Library](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)
 
 ## :pushpin:Deneyap Soil Moisture ICM7555CBA
 This Arduino library allows you to use Deneyap Soil Moisture ICM7555CBA sensor with I2C peripheral. You can use this library in your projects with any Arduino compatible board with I2C peripheral.
@@ -37,8 +37,9 @@ This Arduino library allows you to use Deneyap Soil Moisture ICM7555CBA sensor w
 - `library.properties ` General library properties for the Arduino package manager
 
 ## Version History
-
 1.0.0 - initial release
+
+1.0.1 - update library.properties file
 
 ## :rocket:Hardware Connections
 - Deneyap Soil Moisture and Board can be connected with I2C cable

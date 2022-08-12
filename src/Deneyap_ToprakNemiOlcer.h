@@ -1,11 +1,11 @@
 /*
 *****************************************************************************
 @file         Deneyap_ToprakNemiOlcer.h
-@mainpage     Deneyap Soil Moisture Sensor ICM7555CBA library header file
-@version      v1.0.1
-@date         June 22, 2022
+@mainpage     Deneyap Soil Moisture Sensor TL555Q library header file
+@version      v1.0.2
+@date         August 12, 2022
 @brief        This file contains all function prototypes and macros 
-              for Deneyap Soil Moisture Sensor ICM7555CBA Arduino library
+              for Deneyap Soil Moisture Sensor TL555Q Arduino library
 *****************************************************************************
 */
 

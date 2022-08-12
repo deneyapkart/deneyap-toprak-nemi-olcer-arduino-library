@@ -8,10 +8,10 @@
  *   
  *   Bu örnek Deneyap Toprak Nemi Ölçer için oluşturulmuştur
  *      ------>  www.....com <------ //docs
- *      ------>  https://github.com/deneyapkart/deneyap-5x7-led-matris-arduino-library  <------ 
+ *      ------>  https://github.com/deneyapkart/deneyap-toprak-nemi-olcer-arduino-library  <------ 
  *     
 */
-#include <Deneyap_ToprakNemiOlcer.h>                   // Deneyap_ToprakNemiOlcer.h kütüphanesi eklenmesi
+#include <Deneyap_ToprakNemiOlcer.h>                   // Deneyap_ToprakNemiOlcer kütüphanesi eklenmesi
 
 SoilMoisture ToprakNemi;                               // SoilMoisture için class tanımlaması
 

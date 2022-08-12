@@ -1,13 +1,13 @@
-# Deneyap Soil Moisture ICM7555CBA Arduino Library
+# Deneyap Soil Moisture TL555Q Arduino Library
 [FOR TURKISH VERSION](docs/README_tr.md) ![trflag](https://github.com/deneyapkart/deneyapkart-arduino-core/blob/master/docs/tr.png)
 
 ***** Add photo ****
 
-Arduino library for Deneyap Soil Moisture ICM7555CBA
+Arduino library for Deneyap Soil Moisture TL555Q
 
 ## :mag_right:Specifications 
 - `Product ID` **M38**, **mpv1.0**
-- `MCU` ICM7555CBA, STM8S003F3
+- `MCU` TL555Q, STM8S003F3
 - `Weight` 
 - `Module Dimension`
 - `I2C address` 0x0F, 0x4D, 0x67, 0x69
@@ -20,14 +20,14 @@ Arduino library for Deneyap Soil Moisture ICM7555CBA
 | 0x69 | address when ADR1 and ADR2 pads are shorted |
 
 ## :closed_book:Documentation 
-Deneyap Soil Moisture ICM7555CBA
+Deneyap Soil Moisture TL555Q
 
-[ICM7555CBA-datasheet](https://rocelec.widen.net/view/pdf/vizcydss0o/HRISS396-1.pdf?t.download=true&u=5oefqw)
+[TL555Q-datasheet](https://www.ti.com/lit/ds/symlink/tlc555.pdf?ts=1660038235186)
 
 [How to install a Arduino Library](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)
 
-## :pushpin:Deneyap Soil Moisture ICM7555CBA
-This Arduino library allows you to use Deneyap Soil Moisture ICM7555CBA sensor with I2C peripheral. You can use this library in your projects with any Arduino compatible board with I2C peripheral.
+## :pushpin:Deneyap Soil Moisture TL555Q
+This Arduino library allows you to use Deneyap Soil Moisture TL555Q sensor with I2C peripheral. You can use this library in your projects with any Arduino compatible board with I2C peripheral.
 
 ## :globe_with_meridians:Repository Contents
 - `/docs ` README_tr.md and product photos

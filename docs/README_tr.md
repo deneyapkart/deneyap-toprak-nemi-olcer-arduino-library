@@ -1,12 +1,12 @@
-# Deneyap Toprak Nemi Ölçer ICM7555CBA Arduino Kütüphanesi
+# Deneyap Toprak Nemi Ölçer TL555Q Arduino Kütüphanesi
 
 ***** Fotoğraf eklenecek ****
 
-Deneyap Toprak Nemi Ölçer ICM7555CBA için Arduino kütüphanesidir.
+Deneyap Toprak Nemi Ölçer TL555Q için Arduino kütüphanesidir.
 
 ## :mag_right:Özellikler 
 - `Ürün ID` **M38**, **mpv1.0**
-- `MCU` ICM7555CBA, STM8S003F3
+- `MCU` TL555Q, STM8S003F3
 - `Ağırlık`
 - `Modul Boyutları`
 - `I2C Adres` 0x0F, 0x4D, 0x67, 0x69
@@ -19,13 +19,13 @@ Deneyap Toprak Nemi Ölçer ICM7555CBA için Arduino kütüphanesidir.
 | 0x69 | ADR1 ve ADR2 kısa devre yapıldıklarındaki adres |
 
 ## :closed_book:Dokümanlar
-Deneyap Toprak Nemi Ölçer ICM7555CBA
+Deneyap Toprak Nemi Ölçer TL555Q
 
-[ICM7555CBA-datasheet](https://rocelec.widen.net/view/pdf/vizcydss0o/HRISS396-1.pdf?t.download=true&u=5oefqw)
+[TL555Q-datasheet](https://www.ti.com/lit/ds/symlink/tlc555.pdf?ts=1660038235186)
 
-[Arduino Kütüphanesi Nasıl İndirilir](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)
+[Arduino IDE'de Kütüphane Nasıl İndirilir](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)
 
-## :pushpin:Deneyap Toprak Nemi Ölçer ICM7555CBA
+## :pushpin:Deneyap Toprak Nemi Ölçer TL555Q
 Bu Arduino kütüphanesi Deneyap Toprak Nemi Ölçer algılayıcısının I2C çevre birimi ile kullanılmasını sağlar. Arduino ile uyumlu, I2C çevre birimine sahip herhangi bir geliştirme kartı ile bu kütüphaneyi projelerinizde kullanabilirsiniz.
 
 ## :globe_with_meridians:Repo İçeriği
@@ -42,7 +42,7 @@ Bu Arduino kütüphanesi Deneyap Toprak Nemi Ölçer algılayıcısının I2C ç
 
 ## :rocket:Donanım Bağlantıları
 - Deneyap Toprak Nemi Ölçer ile kullanılan geliştirme kartı I2C kablosu ile bağlanabilir
-- veya jumper kablolar ile ile 3V3, GND, SDA ve SCL bağlantıları yapılabilir.
+- veya jumper kablolar ile 3V3, GND, SDA ve SCL bağlantıları yapılabilir.
 
 | Toprak Nemi Ölçer | Fonksiyon | Kart pinleri |
 | :---      |   :---    | :---      |

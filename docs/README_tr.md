@@ -40,6 +40,8 @@ Bu Arduino kütüphanesi Deneyap Toprak Nemi Ölçer algılayıcısının I2C ç
 
 1.0.1 - library.properties dosyasının güncellenmesi
 
+1.0.2 - ürün bilgi yazılarının güncellenmesi
+
 ## :rocket:Donanım Bağlantıları
 - Deneyap Toprak Nemi Ölçer ile kullanılan geliştirme kartı I2C kablosu ile bağlanabilir
 - veya jumper kablolar ile 3V3, GND, SDA ve SCL bağlantıları yapılabilir.

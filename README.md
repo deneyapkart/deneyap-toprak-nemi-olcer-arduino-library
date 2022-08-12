@@ -41,6 +41,8 @@ This Arduino library allows you to use Deneyap Soil Moisture TL555Q sensor with 
 
 1.0.1 - update library.properties file
 
+1.0.1 - update texts
+
 ## :rocket:Hardware Connections
 - Deneyap Soil Moisture and Board can be connected with I2C cable
 - or 3V3, GND, SDA and SCL pins can be connected with jumper cables
